@@ -1,0 +1,2 @@
+language: dart
+script: dart bin/mp3_tags_manipulator.dart
